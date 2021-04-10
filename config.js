@@ -1,13 +1,13 @@
-const ownerNumber = ["17694448714@s.whatsapp.net"] 
+const ownerNumber = ["+573046288120@s.whatsapp.net"] 
 // Tú número
 
-const OriginalOwner = '17694448714' 
+const OriginalOwner = '+573046288120' 
 // Tú número x2
 
 const apikeyporn = 'fc8fe174f018b95cdae9272493f1a12f'
 // sua key do imgbb para ativar o antiporn
 
-const cr = '℘ąɬơ ცơɬ ۷5\n' 
+const cr = 'X666 DOMINA' 
 // texto del menu
 
 const prefix = '!' 
@@ -56,11 +56,11 @@ const textmsgday = 'Wenos días guap@ 👉👈'
 // link e mensagem de bom dia
 
 const linkimgeve = 'https://i.ibb.co/bLXgcBW/lp-tarde-anime-by-hitsukinyan-db7fpqr-fullview.jpg'
-const textmsgeve = `Un caffe ☕`
+const textmsgeve = `Un caffe, mi guapo? ☕`
 // link e mensagem de boa tarde
 
 const linkimgnig = 'https://i.ibb.co/VJCd34F/EKvo372-X0-AEd-Hz.jpg'
-const textmsgnig = 'Que tengas un buen dia '
+const textmsgnig = 'Buenas Noches Guapo '
 // link e mensagem de boa noite 
 
 // MENSAGENS DE ERRO
@@ -70,7 +70,7 @@ const msgerr = 'Lo siento ocurrio un error intentalo nuevamente'
 
 // MENSAGENS DE AUTOREPLY
 
-const botlindo = 'Gracias'
+const botlindo = 'Gracias, mi rico'
 const linkbotlindo = 'https://photos1.iorbix.com/00/00/00/00/02/72/43/64/C--6tZwaASQH-b.jpg'
 const botfeio = 'Calla cara de culo 😡'
 const cadebot = 'Me llamó onii-chan 👉👈?'
@@ -113,8 +113,8 @@ let mess = {
 const vcard = 'BEGIN:VCARD\n' 
 + 'VERSION:3.0\n' 
 + 'FN:Mi creador\n' 
-+ 'ORG:℘ąɬơ;\n' 
-+ 'TEL;type=CELL;type=VOICE;waid=17694448714:+1 (769) 444-8714\n' 
++ 'ORG:BY-X666;\n' 
++ 'TEL;type=CELL;type=VOICE;waid=3046288120:+57 304 6288120\n' 
 + 'END:VCARD'
 //vcard do propietário, mude os numeros de acordo com o formato que
 //ele corresponde

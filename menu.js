@@ -1,5 +1,5 @@
 const help = (p, date, user, wame) => {
-return `┏━ ℘ąɬơ ცơɬ ۷5 ━┓
+return `┏━ X666 DOMINA ━┓
 ║                                                           
 ║ _*🕐 Fecha: ${date} 🕐*_
 ║ _*👥 Usuario: ${user} 👥*_
@@ -8,14 +8,14 @@ return `┏━ ℘ąɬơ ცơɬ ۷5 ━┓
 ┣══════ Redes ══════┫
 ║
 ║
-║ _Grupo 1 wsp:_
-║ _*🪀 https://bit.ly/3dr6p2P 🪀*_
+║ _YOUTUBE :_
+║ _*🪀 https://youtube.com/channel/UC4GInai98B2tTKtm8FlpQ8g*_
 ║
-║ _Grupo 2 wsp:_
-║ _*🪀 https://bit.ly/3wiL04v 🪀*_
+║ _INSTAGRAM :_
+║ _*🪀 https://instagram.com/xl_la_secta_lx?igshid=1fcdysz9mk2ka 🪀*_
 ║
 ║ _📹 𝐘𝐨𝐮𝐭𝐮𝐛𝐞:_
-║ _*🌐 http://bit.ly/mrpato-yt 🌐*_
+║ _*🌐 LA SECTA DOMINA 🌐*_
 ║
 ┗════════════════════════┛ 
     
